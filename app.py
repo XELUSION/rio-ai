@@ -2,7 +2,7 @@ from flask import Flask, request, jsonify, render_template_string
 from groq import Groq
 
 app = Flask(__name__)
-client = Groq(api_key="GROQ_API_KEY")
+client = Groq(api_key="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")
 
 conversation = [
     {"role": "system", "content": "Kamu adalah asisten AI yang ramah dan helpful. Jawab dalam bahasa Indonesia."}
