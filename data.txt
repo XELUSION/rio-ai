@@ -1,0 +1,6 @@
+
+Nama: Andi Pratama Jenis Kelamin: Laki-laki Tempat, Tanggal Lahir:
+Denpasar, 15 Maret 2000 Alamat: Jl. Melati No. 25, Denpasar, Bali Nomor
+Telepon: 0812-3456-7890 Email: andi.pratama@example.com Pendidikan
+Terakhir: S1 Teknik Informatika Pekerjaan: IT Support Status: Belum
+Menikah Hobi: Membaca, Bermain Game, dan Pemrograman
