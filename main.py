@@ -1,6 +1,6 @@
 from groq import Groq
 
-client = Groq(api_key="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")
+client = Groq(api_key="GROQ_API_KEY")
 
 # Baca file sebagai "pengetahuan" AI
 with open("data.txt", "r") as f:

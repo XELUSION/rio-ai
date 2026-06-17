@@ -4,7 +4,7 @@ from pydantic import BaseModel
 from groq import Groq
 
 app = FastAPI()
-client = Groq(api_key="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")
+client = Groq(api_key="GROQ_API_KEY")
 
 app.add_middleware(CORSMiddleware, allow_origins=["*"], allow_methods=["*"], allow_headers=["*"])
 
